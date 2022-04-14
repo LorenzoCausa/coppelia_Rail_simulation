@@ -149,3 +149,4 @@ visualization_msgs/InteractiveMarkerUpdate
 visualization_msgs/Marker
 visualization_msgs/MarkerArray
 visualization_msgs/MenuEntry
+my_custom_interfaces/Drone_cmd

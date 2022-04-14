@@ -30,4 +30,5 @@
   <depend>visualization_msgs</depend>
   <depend>rosconsole</depend>
   <depend>roslib</depend>
+  <depend>my_custom_interfaces</depend> <!-- my_custom_interfaces is added by me ( Lorenzo Causa ) -->
 </package>

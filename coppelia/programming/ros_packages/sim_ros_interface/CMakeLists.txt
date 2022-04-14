@@ -20,7 +20,8 @@ set(PKG_DEPS
     tf2_geometry_msgs
     tf2_msgs
     trajectory_msgs
-    visualization_msgs)
+    visualization_msgs
+    my_custom_interfaces) # my_custom_interfaces is added by me (Lorenzo Causa)
 
 find_package(catkin REQUIRED COMPONENTS ${PKG_DEPS})
 
